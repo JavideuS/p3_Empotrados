@@ -1,0 +1,34 @@
+# PlatformIO build output and generated files
+.pio/
+compile_commands.json
+
+# Editor settings (settings.json has absolute local paths)
+.vscode/
+.zed/
+.idea/
+
+# Course statement (not ours to publish)
+Practica3.pdf
+
+# Fritzing backups
+*.fzz.bak
+*.fzz~
+
+# Large media: the video is on YouTube
+*.mp4
+*.mov
+*.MOV
+*.mkv
+
+# Deliverable zip
+*.zip
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# p3
+p3/include/
+p3/lib/
+p3/test/
+p3/extras/
